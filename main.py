@@ -1,4 +1,5 @@
->>> freecodecamp = "freeCodeCamp"
+
+>> freecodecamp = "freeCodeCamp"
 
 # Default start and step
 >>> freecodecamp[:8]
